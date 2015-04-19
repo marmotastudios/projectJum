@@ -1,1 +1,12 @@
-*/Temp/
+#Folders
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+
+#Solutions files
+*.csproj
+*.sln
+*.userprefs
+
+#Crashes
+/[Ll]ibrary/CrashedAssetImports.txt
