@@ -2,10 +2,11 @@ using UnityEngine;
 using System.Collections;
 
 public enum Weapon { 
-	bigHammer,
-	tinyHammer,
-	sword,
-	bat,
-	claw
+    bigHammer,
+    tinyHammer,
+    sword,
+    bat,
+    claw,
+    drill
 }
 
