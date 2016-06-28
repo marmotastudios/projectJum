@@ -1,12 +1,35 @@
-#Folders
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
 
-#Solutions files
-*.csproj
-*.sln
-*.userprefs
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
 
-#Crashes
-/[Ll]ibrary/CrashedAssetImports.txt
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll.meta
